@@ -1,2 +1,2 @@
-# brianisbrilliant.github.com
+# brianisbrilliant.github.com | brianisbrilliant.com
 Personal Website
