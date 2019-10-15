@@ -1,6 +1,7 @@
 ---
 title: Better Videos for Instruction
 description: Why some videos look and sound better than others
+theme: jekyll-theme-hacker
 ---
 
 # Better Videos for Instruction
