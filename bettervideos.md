@@ -1,5 +1,5 @@
 ---
-
+title: Document Center
 ---
 
 # Better Videos for Instruction
