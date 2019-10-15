@@ -23,16 +23,16 @@ Here are some things that I want to talk about tomorrow.
 - I want to talk about Epic Pen and OBS.
 
 ### Structure of the Talk
-Part One
+**Part One**
 * Introduce myself and explain why I am up here talking about videos.
   * Why are videos useful? (Let us discuss)
 * Why is my audience here?
   * What do *they* want to learn?
   
-Part Two
+**Part Two**
 * Talk about the stuff up there in prep.
 
-Part Three
+**Part Three**
 * Hands-on Practice (This might also be part of Part Two.)
 
 ### Links
