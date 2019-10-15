@@ -22,6 +22,17 @@ Here are some things that I want to talk about tomorrow.
 - I definitely want to talk about my methods, how I set my videos up.
 - I want to talk about Epic Pen and OBS.
 
+### Structure of the Talk
+Part One
+* Introduce myself and explain why I am up here talking about videos.
+  * Why are videos useful? (Let us discuss)
+* Why is my audience here?
+  * What do *they* want to learn?
+Part Two
+* Talk about the stuff up there in prep.
+Part Three
+* Hands-on Practice (This might also be part of Part Two.)
+
 ### Links
 [Using Epic Pen to Draw on the Screen](https://youtu.be/cs7p5qlubHk?t=360)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cs7p5qlubHk?start=360" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
