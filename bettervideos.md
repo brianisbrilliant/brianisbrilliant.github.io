@@ -28,8 +28,10 @@ Part One
   * Why are videos useful? (Let us discuss)
 * Why is my audience here?
   * What do *they* want to learn?
+  
 Part Two
 * Talk about the stuff up there in prep.
+
 Part Three
 * Hands-on Practice (This might also be part of Part Two.)
 
