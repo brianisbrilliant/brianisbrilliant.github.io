@@ -24,5 +24,10 @@ Here are some things that I want to talk about tomorrow.
 
 ### Links
 [Using Epic Pen to Draw on the Screen](https://youtu.be/cs7p5qlubHk?t=360)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cs7p5qlubHk?start=360" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [A Video Blog for the Summer Jam Practicum](https://youtu.be/6gQUqkUKnkg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6gQUqkUKnkg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [Using OBS and a Webcam](https://youtu.be/7cqfYVy_AqU)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7cqfYVy_AqU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
