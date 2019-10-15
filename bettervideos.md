@@ -1,5 +1,5 @@
 ---
-title: Document Center
+title: Better Videos for Instruction
 ---
 
 # Better Videos for Instruction
@@ -25,10 +25,9 @@ Here are some things that I want to talk about tomorrow.
 - So, the YouTube app will let you record directly from your phone, trim it, add effects, add background music, and then upload it. It will let you set it as unlisted so that it isn't publicly visible. Then, you can look at the video, click Share, then paste the link as a new link in an announcement or assignment. *I think this is the best option for us.*
 - I definitely want to talk about my methods, how I set my videos up.
   - what are those methods, Brian?
-  - I record my in-class lecture with screen capture and my voice. I use Epic Pen to write on the screen.
+  - I record my in-class lecture with OBS for screen capture and my voice recorded with a mic. I use Epic Pen to write on the screen.
   - I use a webcam in my office when I am doing "talk to the student" videos.
   - I just talk to the camera when I am trying to have a "conversation" with my students.
-- I want to talk about Epic Pen and OBS.
 
 ### Structure of the Talk
 **Part One**
