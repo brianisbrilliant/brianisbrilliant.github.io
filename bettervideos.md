@@ -23,5 +23,6 @@ Here are some things that I want to talk about tomorrow.
 - I want to talk about Epic Pen and OBS.
 
 ### Links
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cs7p5qlubHk?start=360" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Using Epic Pen to Draw on the Screen](https://youtu.be/cs7p5qlubHk?t=360)
+[A Video Blog for the Summer Jam Practicum](https://youtu.be/6gQUqkUKnkg)
+[Using OBS and a Webcam](https://youtu.be/7cqfYVy_AqU)
