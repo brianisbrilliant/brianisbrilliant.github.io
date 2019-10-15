@@ -53,7 +53,7 @@ Here are some things that I want to talk about.
 - F11 will make your program fullscreen. This looks wonderful for webpages.
 - Crtl+ and Ctrl- will zoom a webpage larger and smaller, useful for getting people in the back to see your text!
 - If your computer doesn't have audio or a webcam, host your Zoom meeting with your phone and join in with your computer so that they can see your screen but also hear and see you!
-- 
+- Windows+ and Windows- will zoom the entire screen in and out.
 
 ## Videos
 [Using Epic Pen to Draw on the Screen](https://youtu.be/cs7p5qlubHk?t=360)
