@@ -1,5 +1,6 @@
 ---
 title: Better Videos for Instruction
+description: Why some videos look and sound better than others
 ---
 
 # Better Videos for Instruction
