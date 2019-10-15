@@ -26,13 +26,13 @@ Here are some things that I want to talk about.
 - Lapel mics are wonderful, but your iPhone gets great audio too! The reason that a lapel mic works so well is because it is very close to the audio source (your mouth!) This allows it to be less sensitive to room reverb because the audio from your voice is stronger (louder)
 
 ### Production
-- You can upload directly to YouTube from your phone, either iOS or Android.
+- You can upload directly to YouTube from your phone, either [iOS](https://apps.apple.com/us/app/youtube-watch-listen-stream/id544007664) or [Android](https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=en_US).
 - Both iOS and Android have easy ways to trim your videos (The YouTube app works great!).
-- Zoom is a wonderful tool for screen capture as well as meeting with students, and I should **definitely** show it off.
+- [Zoom(free)](https://zoom.us) is a wonderful tool for screen capture as well as meeting with students, and I should **definitely** show it off.
 - Can you post to canvas from your phone? Absolutely you can, but it is a terrible experience!!!
 - The YouTube app will let you record directly from your phone, trim it, add effects, add background music, and then upload it. It will let you set it as unlisted so that it isn't publicly visible. Then, you can look at the video, click Share, then paste the link as a new link in an announcement or assignment. *I think this is the best option for us.*
 - I definitely want to talk about my methods, how I set my videos up. (What are those methods, Brian?)
-  - I record my in-class lecture with OBS for screen capture and my voice recorded with a mic. I use Epic Pen to write on the screen.
+  - I record my in-class lecture with [OBS(free)](https://obsproject.com) for screen capture and my voice recorded with a mic. I use [Epic Pen($9)](https://epic-pen.com) with a [Wacom tablet($50)](https://www.wacom.com/en-us/products/pen-tablets/one-by-wacom) to write on the screen. (Zoom does an alright job of this too)
   - I use a webcam in my office when I am doing "talk to the student" videos.
   - I just talk to the camera when I am trying to have a "conversation" with my students.
 
@@ -55,7 +55,7 @@ Here are some things that I want to talk about.
 - If your computer doesn't have audio or a webcam, host your Zoom meeting with your phone and join in with your computer so that they can see your screen but also hear and see you!
 - 
 
-## Links
+## Videos
 [Using Epic Pen to Draw on the Screen](https://youtu.be/cs7p5qlubHk?t=360)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cs7p5qlubHk?start=360" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
