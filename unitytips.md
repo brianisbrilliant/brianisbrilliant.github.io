@@ -32,3 +32,10 @@ I have compiled some of the things that will help you navigate Unity.
 1. Double click in the project tab and select "Show in Explorer". Move up a folder or two until you see the Assets and Project Settings folders
 1. Select both folders and right click > Send to > compressed zipped folder - This is the file you need to take home. Call it "Week4 Game Graphics" or whatever you like.
 1. When you get home, move the zipped folder to your desktop or documents and unzip it. Drill down to your Scene folder and (assuming you have Unity3D installed) double-click on your scene file to open it with Unity.
+
+### Unity Videos with tips!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/thA3zv0IoUM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yMqefz8XNC4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G8AT01tuyrk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FEA1wTMJAR0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
