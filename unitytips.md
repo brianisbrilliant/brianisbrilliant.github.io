@@ -1,3 +1,8 @@
+---
+title: Unity Tips
+description: A collection of tips and best practices for Unity3D
+---
+
 I have compiled some of the things that will help you navigate Unity.
 
 ## Things to know
@@ -36,6 +41,9 @@ I have compiled some of the things that will help you navigate Unity.
 ### Unity Videos with tips!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/thA3zv0IoUM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yMqefz8XNC4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G8AT01tuyrk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FEA1wTMJAR0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
