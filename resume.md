@@ -1,6 +1,9 @@
-*To whom it may concern:*
+My name is Brian Foster. I have been studying, teaching, and working in the Interactive 3D field since 2013. I am passionate about this field of work because I enjoy creating something from nothing. I want to work on a project that will be remembered, the way that I remember Half-Life 2 or Dishonored. I want to create adventures like I found in Zelda: Breath of the Wild. Perhaps we can work together in the future!
 
-My name is Brian Foster. I have some skill with computers. Below are a list of some of the projects that I have worked on.
+# Programs:
+
+I have a significant amount of experience in the **Unity 3D** game engine. I teach many classes for it, I have created many projects using it, and I have been a part of a team that creates certifications for it.
+When I model I use **3DS Max**. I teach my Game Graphics class **Substance Designer** and I love it. In addition to programming in **C#** I teach classes in **Swift** and **C++**. Content creation is made easier with Adobe products such as **Photoshop**, **Premiere Pro**, and **Audition**.
 
 # Work History
 
