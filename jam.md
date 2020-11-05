@@ -7,7 +7,7 @@ Hello and welcome to the 11th ICT Game Jam! We are so glad that you are here. Th
 
 ||Schedule||
 |:--:|:--:|:--:|
-|Friday Feb 5th|Saturday Feb 6th|Sunday Feb 7th|
+|Friday, Feb 5th|Saturday, Feb 6th|Sunday, Feb 7th|
 |Kickoff at 7pm|Work all day!|Finish at noon!|
 
 ## How to Jam
