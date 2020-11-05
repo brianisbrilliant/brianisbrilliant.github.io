@@ -1,2 +1,1 @@
-# brianisbrilliant.github.com | brianisbrilliant.com
-Personal Website
+A landing page for Brian Foster.
