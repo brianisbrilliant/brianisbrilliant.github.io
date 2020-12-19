@@ -2,7 +2,7 @@ My name is Brian Foster. I have been studying, teaching, and working in the Inte
 
 # Programs:
 
-I have a significant amount of experience in the **Unity 3D** game engine. I teach many classes for it, I have created many projects using it, and I have been a part of a team that creates certifications for it.
+I have a significant amount of experience in the **Unity 3D** game engine. I teach many classes for it, I have created many projects using it, and I have been a part of Certiport's certification team.
 When I model I use **3DS Max**. I teach my Game Graphics class **Substance Designer** and I love it. In addition to programming in **C#** I teach classes in **Swift** and **C++**. Content creation is made easier with Adobe products such as **Photoshop**, **Premiere Pro**, and **Audition**.
 
 # Work History
@@ -27,15 +27,25 @@ When I model I use **3DS Max**. I teach my Game Graphics class **Substance Desig
 
 - Co-founder, CTO
 	- Developed & released **Gnome Wars** for The Hopping Gnome Brewery - October 2015
+        - Used Unity and C# on this 6-month project. 4-player local co-op brawler.
 	- Developed [**Riverfest: Sunny Days**](https://www.youtube.com/watch?v=7TzLhonLQy8) - May 2016
+        - Built this prototype in a weekend using Unity and C# for mobile devices.
 	- Developed & released [**Pac-Matano**](https://www.facebook.com/events/district-marketplace/pac-matano/1070569443022550/) - June 2016
+        - Used Unity and C# and a map API for a location-based experience similar to Pokemon Go, which came out a couple weeks after our game. The idea was developed at Riverfest Hackathon ICT 2016.
 	- Developed & released **Ballot Battle** for The Joy of Voting - October 2016
-	- Developed & released [**Trivia Nights**](https://www.quickdrawtrivia.com/) - 2016-2017 
-	- Developed & released **Space Slam** - September 2016
+        - Used Unity and C# to build another location-based experience.
+	- Developed & released [**Trivia Nights**](https://www.quickdrawtrivia.com/) - 2016-2017
+        - Used Unity and C# to create a Trivia Night Hosting app for the Clover registers that ran on Android.
+	- Developed & released [**Space Slam**](https://store.steampowered.com/app/568480/Space_Slam/) - September 2016
+        - I worked on some of the effects for this game, and did much of the preparation for launch on the PSVR, which did not cross the finish line in to production. Still, released for SteamVR on Steam. I also promoted the game at events like [XPOFest](https://twitter.com/gamesxpo), built promotional material and web pages, populated the steam web page, and sorted out the logistics behind uploading to Steam.
 	- Developed **Sidewallz** Website & Product Customizer
+        - Spent time learning Shopify's API and three.js to develop a website for a local business.
 	- Unpublished Home Customization Idle Game
+        - Built prototypes and design documents.
 	- Unpublished Drink-around-the-Map game
-	- Consulted for Builders Plus, VR exploration of construction sites, which later spinned into Grit
+        - Built design documents and sales pitch.
+	- Consulted for Builders Plus, VR exploration of construction sites, which later morphed into [Grit](https://www.gritvirtual.com)
+        - Imported BIM worksites and drone footage photogrammetry into Unity for use with the HTC Vive. Cleaned up projects from Autodesk Revit for smooth framerate and reasonable collision in VR. Built a heatmap of user's viewpoints and locations.
 	
 
 
@@ -49,7 +59,7 @@ Subject Matter Expert for Job Training Analysis and Standard Setting on
 
 ## [Butterscotch Shenanigans](https://www.bscotch.net/games) - May 2019 to Present
 
-- QA Playtesting through development and launch of [**Levelhead**](https://www.bscotch.net/games/levelhead), followed by an update to their entire catalog of games. Platforms tested include iOS, Android, Switch, Windows, Macintosh
+- QA Playtesting through development and launch of [**Levelhead**](https://www.bscotch.net/games/levelhead), followed by an update to their entire catalog of games. Platforms tested include iOS, Android, Switch, Windows, and macOS
 
 ## Freelance
 
