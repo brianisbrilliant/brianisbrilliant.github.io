@@ -71,3 +71,4 @@ TODO:
 - Add notable projects and links
 - Add software proficiencies
 - Add Awards
+- Change the wall of Quickdraw text into a gallery of projects that can be expanded upon.
