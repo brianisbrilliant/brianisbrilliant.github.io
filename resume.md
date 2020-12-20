@@ -40,6 +40,8 @@ When I model I use **3DS Max**. I teach my Game Graphics class **Substance Desig
         - I worked on some of the effects for this game, and did much of the preparation for launch on the PSVR, which did not cross the finish line in to production. Still, released for SteamVR on Steam. I also promoted the game at events like [XPOFest](https://twitter.com/gamesxpo), built promotional material and web pages, populated the steam web page, and sorted out the logistics behind uploading to Steam.
 	- Developed **Sidewallz** Website & Product Customizer
         - Spent time learning Shopify's API and three.js to develop a website for a local business.
+    - Developed and released [Focus Monitored](http://quickdrawstud.io/focusmonitored/), a focusing alarm app.
+        - Built the app, published to the App Store, and built the webpage.
 	- Unpublished Home Customization Idle Game
         - Built prototypes and design documents.
 	- Unpublished Drink-around-the-Map game
