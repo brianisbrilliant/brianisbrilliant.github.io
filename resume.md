@@ -55,7 +55,8 @@ When I model I use **3DS Max**. I teach my Game Graphics class **Substance Desig
 
 Subject Matter Expert for Job Training Analysis and Standard Setting on 
 
-- Unity Certified Artist - May 2020
+- Unity Certified Artist: Associate - Jan 2021
+- Unity Certified Artist: User - May 2020
 - Unity Certified VR Developer - May 2020
 - Unity Certified User - March 2019
 
