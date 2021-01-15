@@ -42,11 +42,13 @@ When I model I use **3DS Max**. I teach my Game Graphics class **Substance Desig
         - Spent time learning Shopify's API and three.js to develop a website for a local business.
     - Developed and released [Focus Monitored](http://quickdrawstud.io/focusmonitored/), a focusing alarm app.
         - Built the app, published to the App Store, and built the webpage.
-	- Unpublished Home Customization Idle Game
+    - Unpublished Home Customization Idle Game
         - Built prototypes and design documents.
-	- Unpublished Drink-around-the-Map game
+    - Unpublished Drink-around-the-Map game
         - Built design documents and sales pitch.
-	- Consulted for Builders Plus, VR exploration of construction sites, which later morphed into [Grit](https://www.gritvirtual.com)
+    - Unpublished Ordering App for Chartwells
+	    - Built a schema/mockup for an ordering bid for WSU. 
+    - Consulted for Builders Plus, VR exploration of construction sites, which later morphed into [Grit](https://www.gritvirtual.com)
         - Imported BIM worksites and drone footage photogrammetry into Unity for use with the HTC Vive. Cleaned up projects from Autodesk Revit for smooth framerate and reasonable collision in VR. Built a heatmap of user's viewpoints and locations.
 	
 
