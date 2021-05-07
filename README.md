@@ -1,6 +1,5 @@
 # brianisbrilliant.com
 
-A personal website for **Brian Foster** that is currently under construction as of Nov 2020.
+A personal website for **Brian Foster** that is currently getting the job done as of May 2021.
 
 Check out [my resume](http://brianisbrilliant.com/resume)
-or my talk about [Making Better Videos](http://brianisbrilliant.com/bettervideos)
