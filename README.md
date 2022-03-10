@@ -1,5 +1,5 @@
 # brianisbrilliant.com
 
-A personal website for **Brian Foster** that is currently getting the job done as of May 2021.
+A personal website for **Brian Foster** that wonderfully simple as of March 2022.
 
-Check out [my resume](http://brianisbrilliant.com/resume)
+Check out [my resume](http://brianisbrilliant.com/resume) if you want.
