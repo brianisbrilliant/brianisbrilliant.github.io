@@ -10,3 +10,5 @@ Meal options are probably going to suck, and you are already going to be in a hi
 Figure out public transit if you can swing it - most places will have an app to download with the bus times, some will let you pay for the bus through your phone (though you'll need to keep an eye on your phone's battery life!)
 
 If you don't want to bring a heavy or expensive laptop to take notes on, consider bringing a bluetooth keyboard and taking notes on your phone!
+
+Bring business cards if you are going to meet with people. I am going to try to make specific business cards for myself for this GDC. If you have a personal website, you could alternatively add that to an NFC tag, stick that in your GDC Badge holder, and let everyone tap their phone to your badge. I recommend putting a recent picture of yourself on your website so that it is easier for people to remember who you are among all of the other people they will be meeting that week.
