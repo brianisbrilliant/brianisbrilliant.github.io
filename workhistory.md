@@ -70,7 +70,7 @@ Subject Matter Expert for Job Training Analysis and Standard Setting on
 
 ## [Butterscotch Shenanigans](https://www.bscotch.net/games) - May 2019 to Present
 
-- QA Playtesting through development and launch of [**Levelhead**](https://www.bscotch.net/games/levelhead), followed by an update to their entire catalog of games. Platforms tested include iOS, Android, Switch, Windows, and macOS. Currently playtesting unannounced new game.
+- QA Playtesting through development and launch of [**Levelhead**](https://www.bscotch.net/games/levelhead), followed by an update to their entire catalog of games. Platforms tested include iOS, Android, Switch, Windows, and macOS. Currently playtesting Crashlands 2.
 
 ## Freelance
 
