@@ -7,6 +7,12 @@ When I model I use **3DS Max**. I teach my Game Graphics class **Substance Desig
 
 # Work History
 
+## [Wichita State University](https://catalog.wichita.edu/undergraduate/fine-arts/digital-arts/baa-media-arts-game-design/) - August 2022 to Present
+
+- Program Director of Game Design - August 2022 to Present
+	- Teaching **Game Design 1, 2, and 3**. Teaching **Coding 1 and 2**. Teaching **Game Design Concepts**
+	- Evaluating the program to steer it towards student success
+
 ## [ButlerCC](https://www.butlercc.edu/info/201155/interactive-digital-and-3d-technology) - August 2014 to July 2022
 
 - Interactive 3D adjunct professor - Fall 2014 to Fall 2016
