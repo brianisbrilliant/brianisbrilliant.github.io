@@ -7,15 +7,15 @@ When I model I use **3DS Max**. I teach my Game Graphics class **Substance Desig
 
 # Work History
 
-## [ButlerCC](https://www.butlercc.edu/info/201155/interactive-digital-and-3d-technology) - August 2014 to Present
+## [ButlerCC](https://www.butlercc.edu/info/201155/interactive-digital-and-3d-technology) - August 2014 to July 2022
 
 - Interactive 3D adjunct professor - Fall 2014 to Fall 2016
 	- Overhauled **Motion Capture** and **Interactive Scripting**
 	- Created **Game Design 1 & 2**
-- Interactive 3D professor - Spring 2017 to Present
+- Interactive 3D professor - Spring 2017 to July 2022
 	- Added **Virtual Reality**, **Mobile Game Development**, and **Mobile App Development**
 	- Overhauled **Game Graphics** and **Beginning C++**
-- Faculty Development Team - Fall 2015 to Present
+- Faculty Development Team - Fall 2015 to July 2022
 	- Created and taught about 
 		- Creating Hand-Written Videos
 		- The Importance of Rigor
@@ -53,7 +53,7 @@ When I model I use **3DS Max**. I teach my Game Graphics class **Substance Desig
 	
 
 
-## [Certiport ](https://certiport.pearsonvue.com/Certifications/Unity)
+## [Certiport](https://certiport.pearsonvue.com/Certifications/Unity)
 
 Subject Matter Expert for Job Training Analysis and Standard Setting on 
 
@@ -64,7 +64,7 @@ Subject Matter Expert for Job Training Analysis and Standard Setting on
 
 ## [Butterscotch Shenanigans](https://www.bscotch.net/games) - May 2019 to Present
 
-- QA Playtesting through development and launch of [**Levelhead**](https://www.bscotch.net/games/levelhead), followed by an update to their entire catalog of games. Platforms tested include iOS, Android, Switch, Windows, and macOS
+- QA Playtesting through development and launch of [**Levelhead**](https://www.bscotch.net/games/levelhead), followed by an update to their entire catalog of games. Platforms tested include iOS, Android, Switch, Windows, and macOS. Currently playtesting unannounced new game.
 
 ## Freelance
 
@@ -75,5 +75,6 @@ TODO:
 - Add description of work duties
 - Add notable projects and links
 - Add software proficiencies
+- add quantitative data (e.g. I've graduated 200+ students)
 - Add Awards
 - Change the wall of Quickdraw text into a gallery of projects that can be expanded upon.
