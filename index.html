@@ -15,7 +15,7 @@ body, html {height: 100%}
   background-position: center;
   background-size: cover;
 }
-
+ /*  This part is for the portrait at the top of the page */
 img {
   border-radius: 25px;
   width: 75%; 
@@ -25,6 +25,53 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+/* This is for the dropup button */
+
+.dropbtn {
+  border-radius: 5px;
+  background-color: #DC643C;
+  color: white;
+  padding: 6px;
+  font-size: 16px;
+  border: none;
+  
+}
+
+.dropup {
+  position: relative;
+  display: inline-block;
+}
+
+.dropup-content {
+  border-radius: 5px;
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  bottom: 36px;
+  z-index: 1;
+}
+
+.dropup-content a {
+  color: black;
+  padding: 6px 8px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropup-content a:hover {
+  border-radius: 5px;
+  background-color: #ccc
+}
+
+.dropup:hover .dropup-content {
+  display: block;
+}
+
+.dropup:hover .dropbtn {
+  background-color: #BF4922;
 }
 
 </style>
@@ -43,7 +90,21 @@ img {
       <a href="resume/index.html">Resume</a><br>
       <a href="mailto:brian@brianisbrilliant.com">Email</a>
     </p>
+    <div class="dropup">
+      <button class="dropbtn">Dropup</button>
+      <div class="dropup-content">
+        <a href="/unitytips">Unity</a>
+        <a href="/unrealtips">Unreal</a>
+        <a href="/cons">Conventions</a>
+        <a href="/jams">Game Jams</a>
+        <a href="/videostyles">Video Styles</a>
+        <a href="/bettervideos">Better Videos</a>
+        <a href="/island">Island</a>
+        <a href="/workhistory">Work History</a>
+      </div>
+    </div>
   </div>
+  
 </div>
 
 </body>
