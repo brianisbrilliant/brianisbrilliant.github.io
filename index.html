@@ -16,9 +16,21 @@ body, html {height: 100%}
   background-size: cover;
 }
  /*  This part is for the portrait at the top of the page */
+
+/* 
+    I built this so that I could add padding to the image. 
+    There is probably a better way.
+    I don't know why it is overlapping with the "Brian Foster" at the top.
+ */
+portrait {
+  padding: 50px;
+}
+
 img {
+  
   border-radius: 25px;
-  width: 75%; 
+  max-width: 80%; 
+  
 }
 
 .center {
@@ -79,8 +91,10 @@ img {
 <body>
 
 <div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
-  <div class="w3-display-middle">
+  <portrait>
     <img src="images/nasa_brian.jpg" alt="A portrait of Brian Foster" class="w3-animate-top center">
+  </portrait>
+  <div class="w3-display-middle">
     <h1 class="w3-jumbo w3-animate-top w3-center">Brian Foster</h1>
     <hr class="w3-border-grey" style="margin:auto;width:40%">
     <p class="w3-large w3-center"><a href="https://brianisbrilliant.itch.io">Itch.io</a><br>
