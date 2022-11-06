@@ -52,8 +52,9 @@ img {
 }
 
 .dropup {
-  position: relative;
+  /* position: relative; */
   display: inline-block;
+  position:absolute;left:50%;bottom:-30;transform:translate(-50%,0%);-ms-transform:translate(-50%,0%)
 }
 
 .dropup-content {
@@ -91,11 +92,10 @@ img {
 <body>
 
 <div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
-    <div class="w3-display-middle">
-        <portrait>
-            <img src="images/nasa_brian.jpg" alt="A portrait of Brian Foster" class="w3-animate-top center">
-        </portrait>
-  <div>
+  <div class="w3-display-topleft w3-padding-large w3-xlarge">
+    <img src="images/nasa_brian.jpg" alt="A portrait of Brian Foster" width="175" class="w3-animate-top center">
+  </div>
+  <div class="w3-display-middle">
     <h1 class="w3-jumbo w3-animate-top w3-center">Brian Foster</h1>
     <hr class="w3-border-grey" style="margin:auto;width:40%">
     <p class="w3-large w3-center"><a href="https://brianisbrilliant.itch.io">Itch.io</a><br>
@@ -104,19 +104,20 @@ img {
       <a href="https://www.youtube.com/c/BrianFoster">YouTube</a><br>
       <a href="resume/index.html">Resume</a><br>
       <a href="mailto:brian@brianisbrilliant.com">Email</a>
-    </p>
-    <div class="dropup">
-      <button class="dropbtn">Dropup</button>
-      <div class="dropup-content">
-        <a href="/unitytips">Unity</a>
-        <a href="/unrealtips">Unreal</a>
-        <a href="/cons">Conventions</a>
-        <a href="/videostyles">Video Styles</a>
-        <a href="/bettervideos">Better Videos</a>
-        <a href="/island">Island</a>
-        <a href="/workhistory">Work History</a>
+    
+      <div class="dropup">
+        <button class="dropbtn">More</button>
+        <div class="dropup-content">
+          <a href="/unitytips">Unity</a>
+          <a href="/unrealtips">Unreal</a>
+          <a href="/cons">Conventions</a>
+          <a href="/videostyles">Video Styles</a>
+          <a href="/bettervideos">Better Videos</a>
+          <a href="/island">Island</a>
+          <a href="/workhistory">Work History</a>
+        </div>
       </div>
-    </div>
+    </p>
   </div>
 </div>
   
