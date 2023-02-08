@@ -24,7 +24,7 @@ Here are some things that I want to talk about.
 - Don't forget to take a breath! When you need to splice together several clips, you want it to feel natural, not rushed.
 - Most of bad audio is "hearing the room" instead of the source. You pick up a lot of reverberations - your voice bouncing off the walls and floors and ceilings. If you want good audio - record in a closet!
 - Lapel mics are wonderful, but your iPhone gets great audio too! The reason that a lapel mic works so well is because it is very close to the audio source (your mouth!) This allows it to be less sensitive to room reverb because the audio from your voice is stronger (louder)
-- (aAdvanced) [Use VST Audio Plugins for OBS](https://streamgeeks.us/vst-audio-plugins-for-obs/)
+- (Advanced) [Use VST Audio Plugins for OBS](https://streamgeeks.us/vst-audio-plugins-for-obs/)
 
 ### Production
 - You can upload directly to YouTube from your phone, either [iOS](https://apps.apple.com/us/app/youtube-watch-listen-stream/id544007664) or [Android](https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=en_US).
