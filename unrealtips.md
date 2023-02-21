@@ -27,3 +27,6 @@ I am having a time trying to find the right level of tutorial for my students. T
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ivfdCviqS9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 [CGHOW Getting Started](https://www.youtube.com/watch?v=ivfdCviqS9Y)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wA-pqIybTHc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Game Study Guide's video on [Making Custom Particle Effects](https://youtu.be/wA-pqIybTHc) helps us use our own sprites, like from the [Kenney.nl Particle Pack](https://kenney.nl/assets/particle-pack).
