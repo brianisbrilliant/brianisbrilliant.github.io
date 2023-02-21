@@ -24,3 +24,6 @@ I am having a time trying to find the right level of tutorial for my students. T
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XnTSE4Vrsz4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 [Common nodes for Niagara](https://youtu.be/XnTSE4Vrsz4)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ivfdCviqS9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[CGHOW Getting Started](https://www.youtube.com/watch?v=ivfdCviqS9Y)
