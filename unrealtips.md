@@ -1,6 +1,15 @@
 # Unreal Tips
 
-I teach a Special Topics in Level Design at WSU using Unreal Engine. Here are a list of tutorials that I have found useful as I learn Unreal Engine 5.
+Here are a list of tutorials that I have found useful as I learn Unreal Engine 5.
+
+## Fixing Ugly Shadows in Unreal 5
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F3XSKXhIAuU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[William Faucher](https://youtu.be/F3XSKXhIAuU) is one of my favorite Unreal channels. He has a lot of lighting skill.
+
+## Using Complex Collision as Simple
+
+When your collision isn't working the right way and you'd like to use the vertices of the mesh as your collider (for a scanned rock, for example) you can do that! You can also bulk-edit via the Property Matrix. [Here's a link to do both](https://forums.unrealengine.com/t/how-do-i-set-collision-use-complex-as-simple-on-multiple-sm-at-once/284085/6).
 
 ## Creating a Fly-though camera
 
