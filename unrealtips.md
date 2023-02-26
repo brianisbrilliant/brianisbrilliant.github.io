@@ -51,3 +51,6 @@ When setting up a main menu, the cursor is captured by default. You can [fix tha
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R7oLZL97XYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 [How to Select (highlight) other actors/objects by looking at them](https://youtu.be/R7oLZL97XYo) This video was quite good.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t1ECs7CfPNE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[Basic Inventory](https://youtu.be/t1ECs7CfPNE)
