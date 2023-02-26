@@ -46,3 +46,8 @@ Game Study Guide's video on [Making Custom Particle Effects](https://youtu.be/wA
 ## Main Menus
 
 When setting up a main menu, the cursor is captured by default. You can [fix that here](https://forums.unrealengine.com/t/show-mouse-cursor-in-bp/379299)! If you need help remembering how to create a UI and show it on the screen, [here you go](https://docs.unrealengine.com/4.27/en-US/InteractiveExperiences/UMG/HowTo/CreatingWidgets/)! TL:DR is *Create Widget* and *Add to Viewport*. [Ben 🌱 UI](https://benui.ca/) knows all the things about UMG.
+
+## Picking Up Objects
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R7oLZL97XYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[How to Select (highlight) other actors/objects by looking at them](https://youtu.be/R7oLZL97XYo) This video was quite good.
