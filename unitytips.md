@@ -5,6 +5,8 @@ description: A collection of tips and best practices for Unity3D
 
 I have compiled some of the things that will help you navigate Unity.
 
+[check out the documentation!](http://docs.unity.com)
+
 ## Things to know
 
 ### Moving around your Unity scene:
