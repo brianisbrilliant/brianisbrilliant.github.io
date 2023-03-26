@@ -12,3 +12,9 @@ Figure out public transit if you can swing it - most places will have an app to 
 If you don't want to bring a heavy or expensive laptop to take notes on, consider bringing a bluetooth keyboard and taking notes on your phone!
 
 Bring business cards if you are going to meet with people. I am going to try to make specific business cards for myself for this GDC. If you have a personal website, you could alternatively add that to an NFC tag, stick that in your GDC Badge holder, and let everyone tap their phone to your badge. I recommend putting a recent picture of yourself on your website so that it is easier for people to remember who you are among all of the other people they will be meeting that week.
+
+
+## Other people's thoughts
+- [GDC networking from 2017](https://blackshellmedia.com/2017/02/09/gdc-networking-done/)
+- [GDC Survival Guide from 2020](https://transverseaudio.com/gdc-survival-guide)
+- 
