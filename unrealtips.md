@@ -58,3 +58,9 @@ When setting up a main menu, the cursor is captured by default. You can [fix tha
 ## Dialogue
 
 Some day I would love to figure out [how this system works](https://docs.unrealengine.com/5.0/en-US/using-dialogue-voices-and-waves-in-unreal-engine/).
+
+## Quick Tips
+
+Here are some quick tips.
+
+How to check if the Character is on the ground? Use the [Is Moving on Ground node](https://unrealidiot.com/unreal-engine-4-tutorial-how-to-tell-your-character-is-grounded), from the Character Movement node.
