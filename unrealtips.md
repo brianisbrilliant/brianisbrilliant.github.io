@@ -59,6 +59,12 @@ When setting up a main menu, the cursor is captured by default. You can [fix tha
 
 Some day I would love to figure out [how this system works](https://docs.unrealengine.com/5.0/en-US/using-dialogue-voices-and-waves-in-unreal-engine/).
 
+
+## Updating Plugins
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1ogc1TdhGvE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+If you need to update a marketplace plugin to a newer version of Unreal Engine, [try this](https://youtu.be/1ogc1TdhGvE).
+
 ## Quick Tips
 
 Here are some quick tips.
