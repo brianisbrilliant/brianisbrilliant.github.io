@@ -9,3 +9,8 @@ Eternal Sunshine of the Spotless Mind. It's been on my watch list for awhile, I 
 
 #### 23rd
 Listened to Daniel Rossen, his solo stuff is good. Played "A Short Hike" without knowing that it's related to Lil Gator Game. I think it may be the same mountain. That was a pleasant surprise. I always feel close to tears when I play, there's something so sweet about those games. Everyone is weird and kind to each other. I wish my interactions felt as fearless.
+
+### February
+
+#### 6th
+I've been listening to a lot of Aurora, which is new for me. Playing a lot of Minecraft this week with my son, we bought it on the switch. Watching Gilmore Girls again during dinner time. Watching Adventure Time again during the early morning.
