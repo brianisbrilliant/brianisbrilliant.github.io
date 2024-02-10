@@ -70,3 +70,5 @@ If you need to update a marketplace plugin to a newer version of Unreal Engine, 
 Here are some quick tips.
 
 How to check if the Character is on the ground? Use the [Is Moving on Ground node](https://unrealidiot.com/unreal-engine-4-tutorial-how-to-tell-your-character-is-grounded), from the Character Movement node.
+
+Are tooltips constantly buzzing around your mouse cursor? Make them show up slower with ```slate.TooltipSummonDelay```
