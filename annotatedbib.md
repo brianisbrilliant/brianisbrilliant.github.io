@@ -43,4 +43,4 @@ teaching someone to swim without water. How to design for this new medium. Rope 
 
 ### [Playtesting VR: Brownboxing, Spycams, and Fuzzy Rugs](https://gdcvault.com/play/1024863/Playtesting-VR-Brownboxing-Spycams-and) - Schell Games
 
-This is an amazing talk on prototyping VR and AR. It also will give tips on playtesting and getting useful information from those playtests (don't say anything, let them struggle!)
+This is an amazing 60-minute talk on prototyping VR and AR. It also will give tips on playtesting and getting useful information from those playtests (don't say anything, let them struggle!). His first VR world was made in 2001. "VR is new, and people act differently in it"
