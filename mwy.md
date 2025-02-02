@@ -1,3 +1,7 @@
+First written Nov 5th, 2022.
+Last updated Nov 5th, 2022.
+by Brian Foster
+
 My history with mewithoutYou is rich and impactful. In my 20s I listened to Bright Eyes for company & confort in my sadness, David Bazan for honesty, and mewithoutYou for humility and perspective. It seemed like any time I felt directionless I could listen to mewithoutYou and they would re-frame my current situation and remind me of what is important.
 
 I remember the first time I heard them. My best friend & crush had come over after school in 9th grade (2003) and brought [A-B] life over on cd. We sat across from each other and just listened, sharing the lyrics book. I wasn't into this genre yet, my favorite bands at the time were "Jars of Clay" and "Delirious?". I had a friend trying to get me into UnderOATH's first two albums. I was hooked at the end of the third song, when "Nice and Blue" goes quiet right before saying "I was once alive...". mewithoutYou has been my all-time favorite band ever since.

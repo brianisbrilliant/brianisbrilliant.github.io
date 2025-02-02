@@ -44,3 +44,11 @@ teaching someone to swim without water. How to design for this new medium. Rope 
 ### [Playtesting VR: Brownboxing, Spycams, and Fuzzy Rugs](https://gdcvault.com/play/1024863/Playtesting-VR-Brownboxing-Spycams-and) - Schell Games
 
 This is an amazing 60-minute talk on prototyping VR and AR. It also will give tips on playtesting and getting useful information from those playtests (don't say anything, let them struggle!). His first VR world was made in 2001. "VR is new, and people act differently in it"
+
+### [Room for Everyone: The 'Rec Room' Approach to Community VR ](https://gdcvault.com/play/1024880/Room-for-Everyone-The-Rec)
+
+I really appreciate their attempts to grow a positive community, their design pillars, and the creative and community-building nature of their project.
+
+### [Secrets of AAA Immersive Audio Production for New Realities ](https://gdcvault.com/play/1024881/Secrets-of-AAA-Immersive-Audio)
+
+I haven't seen this one yet, but I REALLY want to. It's by Skywalker Sound.
