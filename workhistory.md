@@ -54,7 +54,7 @@ When I model I use **3DS Max**. I teach my Game Graphics class **Substance Desig
         - Built design documents and sales pitch.
     - Unpublished Ordering App for Chartwells
 	    - Built a schema/mockup for an ordering bid for WSU. 
-    - Consulted for Builders Plus, VR exploration of construction sites, which later morphed into [Grit](https://www.gritvirtual.com)
+    - Consulted for Builders Plus, VR exploration of construction sites, which later morphed into [Grit](https://web.archive.org/web/20240511083732/https://gritvirtual.com/)
         - Imported BIM worksites and drone footage photogrammetry into Unity for use with the HTC Vive. Cleaned up projects from Autodesk Revit for smooth framerate and reasonable collision in VR. Built a heatmap of user's viewpoints and locations.
 	
 
