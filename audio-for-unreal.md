@@ -13,4 +13,4 @@ description: AES Meeting, Feb 21, 2025, at Shocker Studios
 - Explore Spatial Audio with [Resonance Audio](https://resonance-audio.github.io/resonance-audio/develop/unreal/getting-started.html).
 
 
-## Getting Started
+## Lecture
